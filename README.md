@@ -17,7 +17,7 @@ $$
 \frac{dM}{dt} = \left(2 p_{\text{MM}} + p_{\text{SM}}\right) \frac{\nu S_{50}^{h} S}{S_{50}^{h} + S^{h}} + \frac{2f\nu M_{50}^{h} M}{M_{50}^{h} + M^{h}} 
 $$
 
-#$ 
+$$ 
 \frac{dS}{dt} = \left(3 p_{\text{SS}} + 2 p_{\text{SM}} - 1\right) \frac{\nu S_{50}^{h} S}{S_{50}^{h} + S^{h}} 
 $$
 
