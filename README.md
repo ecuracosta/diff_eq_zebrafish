@@ -9,7 +9,9 @@ The dataset used in this analysis consists of Hair, Mantle and Sustentacular cel
 
 The model is a system of differential equations:
 
-$ \frac{dH}{dt} = 2 \left(1 - p_{\text{SS}} - p_{\text{MM}} - p_{\text{SM}}\right) \frac{\nu S_{50}^{h} S}{S_{50}^{h} + S^{h}} $
+$$
+\frac{dH}{dt} = 2 \left(1 - p_{\text{SS}} - p_{\text{MM}} - p_{\text{SM}}\right) \frac{\nu S_{50}^{h} S}{S_{50}^{h} + S^{h}} 
+$$
 
 $ \frac{dM}{dt} = \left(2 p_{\text{MM}} + p_{\text{SM}}\right) \frac{\nu S_{50}^{h} S}{S_{50}^{h} + S^{h}} + \frac{2f\nu M_{50}^{h} M}{M_{50}^{h} + M^{h}} $
 
