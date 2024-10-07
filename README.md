@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13897106.svg)](https://doi.org/10.5281/zenodo.13897106)
+
 ## Differential Equation Model Analysis
 
 An analysis of a system of differential equations to model the local control of cellular proliferation during organ regeneration in zebrafish. The objective is to fit the model to observed data, estimate parameters and visualize the model predictions with uncertainties.
